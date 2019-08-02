@@ -2,5 +2,6 @@
 <remote name="github" fetch="https://github.com"/>
 <project name="snst/betaflight" remote="github" path="betaflight" revision="fcl"/>
 <project name="snst/ardupilot_gazebo" remote="github" path="ardupilot_gazebo" revision="fcl"/>
+<project name="snst/fccom" remote="github" path="fccom" revision="master"/>
                                               
 </manifest>
